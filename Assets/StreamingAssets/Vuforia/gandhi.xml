@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="100newback" size="10.000000 4.595880" />
+    <ImageTarget name="50newback" size="10.000000 4.900850" />
+    <ImageTarget name="50oldback" size="10.000000 4.979400" />
+    <ImageTarget name="100oldback" size="10.000000 4.569378" />
+    <ImageTarget name="50new" size="10.000000 4.952290" />
+    <ImageTarget name="100new" size="10.000000 4.367816" />
+    <ImageTarget name="50old" size="1.000000 0.488125" />
+    <ImageTarget name="100old" size="1.000000 0.454000" />
+  </Tracking>
+</QCARConfig>
